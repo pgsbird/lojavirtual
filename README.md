@@ -9,3 +9,5 @@
 4 - demos o PUSH - para subir para o servidor
 
 git status -  verifica o estado do nosso projeto
+
+MUDANÇA PELO GITHUB
